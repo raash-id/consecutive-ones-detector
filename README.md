@@ -18,4 +18,9 @@
 - ___Cadence NCSim:___ To compile and check logic design
 - ___Synopsys Design Compiler:___ To obtain the synthesized netlist from the design
 
+## Group members
+1. Raashid Ansari – team lead
+2. Jonathan Frey – source coder
+3. William Nitsch – Testbench Coder
+
 ___NOTE:___ Refer to [report](group report_consecutive ones detector.pdf "group report_consecutive ones detector.pdf") for detailed explanation of the project.
